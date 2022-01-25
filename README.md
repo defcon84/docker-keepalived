@@ -1,3 +1,8 @@
+
+Latest release: 2.2.7 - Keepalived 2.2.7
+
+## original readme.md
+
 # osixia/keepalived
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/osixia/keepalived.svg)][hub]
