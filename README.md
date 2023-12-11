@@ -1,5 +1,7 @@
+[https://hub.docker.com/repository/docker/defcon1984/keepalived/general](https://hub.docker.com/repository/docker/defcon1984/keepalived)
 
-Latest release: 2.2.7 - Keepalived 2.2.7
+
+Latest release: 2.2.8 - Keepalived 2.2.8
 
 ## original readme.md
 
