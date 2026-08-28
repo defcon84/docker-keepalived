@@ -1,15 +1,10 @@
-<<<<<<< HEAD
 [https://hub.docker.com/repository/docker/defcon1984/keepalived/general](https://hub.docker.com/repository/docker/defcon1984/keepalived)
 
 
-Latest release: 2.2.8 - Keepalived 2.2.8
+Latest release: 2.4.3 - Keepalived 2.4.3
 
 ## original readme.md
-
-# osixia/keepalived
-=======
 # osixia/keepalived 🐳🛟🌴
->>>>>>> 50470bf6a4c33771da0204ce7dcbdab0a790fcc0
 
 [docker hub]: https://hub.docker.com/r/osixia/keepalived
 [github]: https://github.com/osixia/container-keepalived
