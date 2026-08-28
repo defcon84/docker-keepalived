@@ -1,0 +1,6 @@
+# Normalize line endings: these files are executed inside Linux containers,
+# so CRLF from a Windows checkout breaks their shebang at runtime.
+*.sh        text eol=lf
+*.template  text eol=lf
+.env        text eol=lf
+Dockerfile  text eol=lf
